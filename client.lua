@@ -9,7 +9,7 @@
 -----------------------------------------------------------------------
 -- Script  : alttab_seats 
 -- Version : v2.0
--- Written by ILYASleZWIN*s
+-- Written by IlyasDiker
 -- Status  : Working
 -----------------------------------------------------------------------
 
