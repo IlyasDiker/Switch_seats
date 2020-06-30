@@ -5,7 +5,7 @@ This Standalone lua script allow you to switch between seats use :  `/seats` or 
 
 ### How to use: 
 
-`/seats`   :  it will open a menu with car click on the target seat & voila
+`/seats`   :  it will open a menu with a car, then click on the target seat & voila
 
 `/seats  [seat_id]`  : -1 for driver 0 , 1 , 2 , 3 ....  for passengers (max is 24) i think it's the big Bus.
 
